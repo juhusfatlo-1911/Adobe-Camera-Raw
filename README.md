@@ -206,4 +206,4 @@ This repository serves as the official landing page for Adobe Camera Raw. The so
 **Get the most recent version of Adobe Camera Raw today!**
 
 ---
-**Last updated:** 2026-11-11 23:16:07 UTC
+**Last updated:** 2026-11-12 05:27:43 UTC
